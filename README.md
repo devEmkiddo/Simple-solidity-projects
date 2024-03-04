@@ -6,3 +6,6 @@
 <ul>
   <li><a href="https://remix.ethereum.org/">Remix</a></li>
 </ul>
+
+<h3>Disclaimer</h3>
+<p>These are simple projects and should not be used in production, only for educational purposes</p>
